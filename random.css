@@ -1,0 +1,30 @@
+ #body{
+        background-color: powderblue;
+}
+#btn{
+        margin-left: 58%;
+        margin-top: 10px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        transition: 1s;
+        background-color: powderblue;
+        border: none;     
+}
+#btn:hover{
+        background-color: green;
+        color: white;
+}
+#Quotes{
+        border: 1px solid black;
+        width: 50%;
+        margin-top: 100px;
+        margin-left: 200px;
+        text-align: center;
+        border-radius: 10px;
+        background-color: whitesmoke;
+        transition: 1s;
+}
+#Quotes:hover{
+        background-color: green;
+        color: white;
+} 
